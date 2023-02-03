@@ -1,0 +1,4 @@
+postgres
+Inictel123.
+10.0.114.10
+bd_sistemagestiondocumentaria
